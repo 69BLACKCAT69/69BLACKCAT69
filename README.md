@@ -30,7 +30,14 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 ### **Herramientas y tecnologías**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,mysql,sqlite,github,vscode,linux,figma,git,tkinter" />
+    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,mysql,sqlite,github,vscode,figma,git,tkinter" />
+  </a>
+</p>
+
+### **Sistemas Operativos**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
 </p>
 
@@ -53,4 +60,3 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
-
