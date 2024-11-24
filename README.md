@@ -84,5 +84,5 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 <div align="center">
   <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="elanza-48" />
+    alt="69BLACKCAT69" />
 </div>
