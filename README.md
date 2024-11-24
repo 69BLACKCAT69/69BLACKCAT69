@@ -17,6 +17,16 @@ Tengo experiencia liderando equipos y proyectos, siempre buscando maneras de opt
 La programación es mi medio para aprender y construir. Me interesa mucho la inteligencia artificial, el aprendizaje automático y el potencial de estas tecnologías para transformar el mundo. Siempre estoy abierto a explorar nuevas herramientas y tecnologías que me permitan crecer y aportar más valor a los proyectos en los que colaboro.
 
 ---
+### 🌟 **Habilidades Blandas**  
+
+- **Trabajo en equipo**: Me encanta colaborar con otros desarrolladores y profesionales de diferentes áreas. Creo que el trabajo en equipo es fundamental para la innovación y el éxito.
+- **Comunicación clara y efectiva**: Siempre me esfuerzo por explicar mis ideas de manera simple y comprensible, lo que facilita la colaboración en proyectos complejos.
+- **Gestión del tiempo y organización**: Tengo una fuerte capacidad para gestionar múltiples proyectos simultáneamente sin sacrificar la calidad, lo que me permite entregar resultados a tiempo.
+- **Pensamiento crítico**: Analizo problemas desde diferentes perspectivas, lo que me permite encontrar soluciones más efectivas y creativas.
+- **Aprendizaje continuo**: Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades técnicas y de gestión.
+
+---
+
 
 ## 🚀 Tecnologías conocidas 👨🏻‍💻  
 
