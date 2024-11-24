@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hola, Soy Santiago de Jesús Sosa Trejo | 💻 Ingeniero en Sistemas Computacionales y Fullstack Developer 💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy Santiago de Jesús Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">💻 Ingeniero en Sistemas Computacionales y Fullstack Developer 💻</p>
 
 <img align="right" width="300px" alt="Developer Cat GIF" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
 
@@ -70,4 +72,3 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
-
