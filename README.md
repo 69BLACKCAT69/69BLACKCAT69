@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hola, Yo soy Santiago de Jesus Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Yo soy Santiago de Jesús Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width="300px" alt="Developer GIF" src="https://i.pinimg.com/originals/38/9f/fd/389ffd68f36c9b68c8c1df8b4f4096e6.gif" />
+<img align="right" width="300px" alt="Developer Cat GIF" src="https://media.tenor.com/qbI0P7EU-LUAAAAC/cat-typing.gif" />
 
 💻 Soy un **Ingeniero en Sistemas Computacionales** y Fullstack Developer 💻  
 
@@ -28,7 +28,7 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 ---
 
 ### 📞 Contacto  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7891193882)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/527891193882)  
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosatrejosantiagodejesus@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-de-jesus-sosa-trejo-9249312b7)
 
@@ -36,3 +36,4 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
+
