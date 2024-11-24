@@ -86,6 +86,6 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 ## 🐍 Snake Game
 
 <div align="center">
-    <iframe src="https://69blackcat69.github.io/Snake-template/" width="800" height="600" style="border:none;"></iframe>
+    <frame src="https://69blackcat69.github.io/Snake-template/" width="800" height="600" style="border:none;"></frame>
 </div>
 
