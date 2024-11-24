@@ -2,7 +2,7 @@
 
 <img align="right" width="300px" alt="Developer Cat GIF" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
 
-💻 **Ingeniero en Sistemas Computacionales** y **Fullstack Developer**
+<h2💻 Ingeniero en Sistemas Computacionalesy **Fullstack Developer></h1>
 
 ---
 
