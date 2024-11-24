@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, Yo soy Santiago de Jesús Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width="300px" alt="Developer Cat GIF" src="https://media.tenor.com/qbI0P7EU-LUAAAAC/cat-typing.gif" />
+<img align="right" width="300px" alt="Developer Cat GIF" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
 
 💻 Soy un **Ingeniero en Sistemas Computacionales** y Fullstack Developer 💻  
 
