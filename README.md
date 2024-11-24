@@ -1,32 +1,34 @@
-<h1 align="center"><b>Hola, Yo soy Santiago de Jesús Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy Santiago de Jesús Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width="300px" alt="Developer Cat GIF" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
 
-💻 Soy un **Ingeniero en Sistemas Computacionales** y Fullstack Developer 💻  
-
-### 🚀 Experto en desarrollo de software  
-Me apasiona crear aplicaciones sólidas y escalables que resuelvan problemas reales. Trabajo principalmente con **Python** para construir backends eficientes, y tengo experiencia en el diseño de interfaces frontend dinámicas y amigables. También disfruto estructurando proyectos desde cero, definiendo arquitecturas que sean robustas y fáciles de mantener.
-
-### 🎨 Diseñador de experiencias funcionales y atractivas  
-Creo firmemente que el software no solo debe funcionar bien, sino también ser intuitivo y visualmente agradable. Me encanta cuidar los detalles en cada proyecto, asegurándome de que tanto los usuarios como los desarrolladores disfruten la experiencia.
-
-### 🛠️ Innovador y con mentalidad analítica  
-Tengo experiencia liderando equipos y proyectos, siempre buscando maneras de optimizar procesos y mejorar la calidad del desarrollo. Disfruto enfrentar desafíos y encontrar soluciones creativas que hagan la diferencia.
-
-### ✨ Apasionado por aprender y compartir  
-La programación es mi medio para aprender y construir. Me interesa mucho la inteligencia artificial, el aprendizaje automático y el potencial de estas tecnologías para transformar el mundo. Siempre estoy abierto a explorar nuevas herramientas y tecnologías que me permitan crecer y aportar más valor a los proyectos en los que colaboro.
+💻 **Ingeniero en Sistemas Computacionales** y **Fullstack Developer**
 
 ---
+
+### 🚀 **Desarrollo de Software**  
+Me especializo en crear aplicaciones sólidas y escalables con **Python** (backend) y **JavaScript** (frontend), buscando siempre proyectos fáciles de mantener.
+
+### 🎨 **Diseño Funcional**  
+Creo que el software debe ser intuitivo y visualmente atractivo, cuidando los detalles para una experiencia óptima.
+
+### 🛠️ **Mentalidad Analítica**  
+Lidero equipos para optimizar procesos y encontrar soluciones creativas a desafíos complejos.
+
+### ✨ **Aprendizaje y Crecimiento**  
+Me apasiona la inteligencia artificial y el aprendizaje automático, siempre explorando nuevas tecnologías para mejorar y aportar valor.
+
+---
+
 ### 🌟 **Habilidades Blandas**  
 
-- **Trabajo en equipo**: Me encanta colaborar con otros desarrolladores y profesionales de diferentes áreas. Creo que el trabajo en equipo es fundamental para la innovación y el éxito.
-- **Comunicación clara y efectiva**: Siempre me esfuerzo por explicar mis ideas de manera simple y comprensible, lo que facilita la colaboración en proyectos complejos.
-- **Gestión del tiempo y organización**: Tengo una fuerte capacidad para gestionar múltiples proyectos simultáneamente sin sacrificar la calidad, lo que me permite entregar resultados a tiempo.
-- **Pensamiento crítico**: Analizo problemas desde diferentes perspectivas, lo que me permite encontrar soluciones más efectivas y creativas.
-- **Aprendizaje continuo**: Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades técnicas y de gestión.
+- **Trabajo en equipo**: Colaboro eficientemente con equipos multidisciplinarios.
+- **Comunicación clara**: Explico ideas complejas de manera comprensible.
+- **Gestión del tiempo**: Manejo múltiples proyectos sin comprometer calidad.
+- **Pensamiento crítico**: Enfrento problemas desde diferentes perspectivas.
+- **Aprendizaje continuo**: Busco siempre mejorar mis habilidades técnicas y de gestión.
 
 ---
-
 
 ## 🚀 Tecnologías conocidas 👨🏻‍💻  
 
