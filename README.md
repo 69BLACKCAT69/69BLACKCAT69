@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy un **Ingeniero en Sistemas Computacionales** y Fullstack Developer 💻  
+<h1 align="center"><b>Hola ,Yo soy Santiago de Jesus Sosa Trejo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 💻 Soy un **Ingeniero en Sistemas Computacionales** y Fullstack Developer 💻  
 
 ### 🚀 Experto en desarrollo de software  
 Me apasiona crear aplicaciones sólidas y escalables que resuelvan problemas reales. Trabajo principalmente con **Python** para construir backends eficientes, y tengo experiencia en el diseño de interfaces frontend dinámicas y amigables. También disfruto estructurando proyectos desde cero, definiendo arquitecturas que sean robustas y fáciles de mantener.
