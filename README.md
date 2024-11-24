@@ -72,3 +72,9 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=69BLACKCAT69&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/69BLACKCAT69)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=69BLACKCAT69&theme=material-palenight)](https://github.com/69BLACKCAT69)
+</div>
