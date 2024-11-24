@@ -81,3 +81,8 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&langs_count=10&theme=tokyonight&layout=compact" alt="69BLACKCAT69 :: Top Langs" /></p>
 </div>
+
+<div align="center">
+  <img  src="resources/img/github-contribution-grid-snake.svg"
+    alt="elanza-48" />
+</div>
