@@ -1,8 +1,6 @@
-<h1 align="center"><b>Hola, Soy Santiago de Jesús Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy Santiago de Jesús Sosa Trejo | 💻 Ingeniero en Sistemas Computacionales y Fullstack Developer 💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width="300px" alt="Developer Cat GIF" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
-
-<h2💻 Ingeniero en Sistemas Computacionalesy **Fullstack Developer></h1>
 
 ---
 
@@ -20,7 +18,7 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 ---
 
-### 🌟 **Habilidades Blandas**  
+### 🌟 **Habilidades Blandas**
 
 - **Trabajo en equipo**: Colaboro eficientemente con equipos multidisciplinarios.
 - **Comunicación clara**: Explico ideas complejas de manera comprensible.
@@ -30,7 +28,7 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 ---
 
-## 🚀 Tecnologías conocidas 👨🏻‍💻  
+## 🚀 **Tecnologías conocidas** 👨🏻‍💻
 
 ### **Lenguajes de programación**  
 <p align="left">
@@ -55,7 +53,7 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 ---
 
-### 📞 Contacto  
+### 📞 **Contacto**  
 <p align="left">
   <a href="https://wa.me/527891193882" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -72,3 +70,4 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
+
