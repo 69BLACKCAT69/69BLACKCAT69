@@ -42,7 +42,7 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 ### **Herramientas y tecnologías**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,mysql,sqlite,github,vscode,figma,git,tkinter" />
+    <img src="https://skillicons.dev/icons?i=arduino,notion,androidstudio,mysql,sqlite,github,vscode,figma,git,tkinter" />
   </a>
 </p>
 
