@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 **Desarrollo de Software**  
-Me especializo en crear aplicaciones sólidas y escalables con **Python** (backend) y **JavaScript** (frontend), buscando siempre proyectos fáciles de mantener.
+Me especializo en crear aplicaciones sólidas y escalables con **Python** y muchos otros lenguajes de programación, Me gusta entender la logica de programacion para poder hacer los codigo lo mas sencillos y limpios posibles.
 
 ### 🎨 **Diseño Funcional**  
 Creo que el software debe ser intuitivo y visualmente atractivo, cuidando los detalles para una experiencia óptima.
