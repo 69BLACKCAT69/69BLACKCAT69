@@ -19,9 +19,18 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 ---
 
 ## 🚀 Tecnologías conocidas 👨🏻‍💻  
+
+### **Lenguajes de programación**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,arduino,java,androidstudio,mysql,sqlite,github,js,vscode,linux,figma,html,css,git,cpp,tkinter" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
+  </a>
+</p>
+
+### **Herramientas y tecnologías**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,mysql,sqlite,github,vscode,linux,figma,git,tkinter" />
   </a>
 </p>
 
@@ -44,3 +53,4 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
+
