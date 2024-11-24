@@ -14,12 +14,22 @@ La programación es mi medio para aprender y construir. Me interesa mucho la int
 
 ---
 
-### 📞 Contacto  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/527891193882)  
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sosatrejosantiagodejesus@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-de-jesus-sosa-trejo-9249312b7)
+## 🚀 Tecnologías conocidas 👨🏻‍💻  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,arduino,java,androidstudio,mysql,sqlite,github,js,vscode,linux,figma,html,css,git,cpp,tkinter" />
+  </a>
+</p>
 
 ---
 
-💡 *Estoy en constante búsqueda de nuevas oportunidades para aprender, colaborar y marcar la diferencia.*  
-🌟 *Si tienes una idea o proyecto interesante, ¡me encantaría saber de ti!*
+## 📬 Contacto  
+
+- **WhatsApp**: [7891193882](https://wa.me/7891193882)
+- **Correo**: [sosatrejosantiagodejesus@gmail.com](mailto:sosatrejosantiagodejesus@gmail.com)
+- **LinkedIn**: [Santiago de Jesús Sosa Trejo](https://www.linkedin.com/in/santiago-de-jesus-sosa-trejo-9249312b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
+🌟 *¡Hablemos y construyamos algo increíble juntos!*
