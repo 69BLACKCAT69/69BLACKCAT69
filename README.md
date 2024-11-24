@@ -73,16 +73,18 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
 🌟 *¡Hablemos y construyamos algo increíble juntos!*
 
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=69BLACKCAT69&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/69BLACKCAT69)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=69BLACKCAT69&theme=material-palenight)](https://github.com/69BLACKCAT69)
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&langs_count=10&theme=tokyonight&layout=compact" alt="69BLACKCAT69 :: Top Langs" /></p>
+<div align="center">
+  <h2>Github Estatus</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=69BLACKCAT69&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/69BLACKCAT69" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=69BLACKCAT69&theme=material-palenight" alt="https://github.com/69BLACKCAT69" />
 </div>
+<hr>
 
 <div align="center">
   <img  src="resources/img/github-contribution-grid-snake.svg"
     alt="69BLACKCAT69" />
+</div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&langs_count=10&theme=tokyonight&layout=compact" alt="69BLACKCAT69 :: Top Langs" /></p>
 </div>
