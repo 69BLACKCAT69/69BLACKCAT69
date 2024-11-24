@@ -82,3 +82,10 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&langs_count=10&theme=tokyonight&layout=compact" alt="69BLACKCAT69 :: Top Langs" /></p>
 </div>
+
+## 🐍 Snake Game
+
+<div align="center">
+    <iframe src="https://69blackcat69.github.io/Snake-template/" width="800" height="600" style="border:none;"></iframe>
+</div>
+
