@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hola ,Yo soy Santiago de Jesus Sosa Trejo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Yo soy Santiago de Jesus Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="right" width="300px" alt="Developer GIF" src="https://i.pinimg.com/originals/38/9f/fd/389ffd68f36c9b68c8c1df8b4f4096e6.gif" />
+
 💻 Soy un **Ingeniero en Sistemas Computacionales** y Fullstack Developer 💻  
 
 ### 🚀 Experto en desarrollo de software  
