@@ -77,8 +77,7 @@ Me apasiona la inteligencia artificial y el aprendizaje automático, siempre exp
   <h2>Github Estatus</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=69BLACKCAT69&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/69BLACKCAT69" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=69BLACKCAT69&theme=material-palenight"/>
-</div>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=69BLACKCAT69&theme=tokyonight" />
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&langs_count=10&theme=tokyonight&layout=compact" alt="69BLACKCAT69 :: Top Langs" /></p>
 </div>
