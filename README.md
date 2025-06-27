@@ -34,7 +34,7 @@
 
 ### 🛠️ Herramientas & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mysql,sqlite,arduino,git,github,vscode,figma,androidstudio,tkinter,notion" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,sqlite,arduino,git,github,vscode,figma,androidstudio,notion" />
 </p>
 
 ### 💻 Sistemas Operativos
