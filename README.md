@@ -1,115 +1,94 @@
-<h1 align="center">¡Hola, soy Santiago de Jesús Sosa Trejo! 👋</h1>
-<h3 align="center">💻 Ingeniero en Sistemas Computacionales | Desarrollador Fullstack | Apasionado por la IA 💻</h3>
+<h2 align="center"><b>Hola, Soy Santiago de Jesus Sosa Trejo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-</p>
+<p align="center">💻 Ingeniero en Sistemas Computacionales y Fullstack Developer 💻</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Fullstack;Apasionado+por+la+IA+y+el+Machine+Learning;Líder+de+Proyectos+de+Software;Siempre+creando+soluciones+eficientes" alt="Typing SVG" />
-</p>
+<img align="right" width="300px" alt="Developer Cat GIF" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
 
 ---
 
-<img align="right" width="300" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif" />
+### 🚀 **Desarrollo de Software**  
+Me especializo en crear aplicaciones sólidas y escalables con **Python** y muchos otros lenguajes de programación, Me gusta entender la logica de programacion para poder hacer los codigo lo mas sencillos y limpios posibles.
 
-## 👨‍💻 Sobre mí
+### 🎨 **Diseño Funcional**  
+Creo que el software debe ser intuitivo y visualmente atractivo, cuidando los detalles para una experiencia óptima.
 
-Soy un **ingeniero en sistemas** apasionado por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas que aporten valor real. Me especializo en el desarrollo **Fullstack**, lidero proyectos de software y siempre busco mantener un código **limpio, eficiente y bien estructurado**.
+### 🛠️ **Mentalidad Analítica**  
+Lidero equipos para optimizar procesos y encontrar soluciones creativas a desafíos complejos.
 
-- 🎯 Me enfoco en **lógica y optimización** de código.
-- 🚀 Fan de los retos y de aprender nuevas tecnologías.
-- 🤖 Actualmente explorando proyectos de **IA aplicada a la educación**.
-- 🧠 Mi filosofía: "Piensa primero, codifica después."
-
----
-
-## 🧠 Filosofía de Desarrollo
-
-- 🔍 **Código limpio y lógico**: Que sea mantenible, eficiente y comprensible.
-- 🎨 **UI/UX Funcional**: Interfaces que enamoren visualmente y que sean intuitivas.
-- 🧩 **Soluciones analíticas**: Abordo problemas desde perspectivas múltiples.
-- 💡 **Mejorar siempre**: Aprender algo nuevo todos los días es parte del camino.
+### ✨ **Aprendizaje y Crecimiento**  
+Me apasiona la inteligencia artificial y el aprendizaje automático, siempre explorando nuevas tecnologías para mejorar y aportar valor.
 
 ---
 
-## 🔧 Habilidades Técnicas
+### 🌟 **Habilidades Blandas**
 
-### 🖥️ Lenguajes de Programación
+- **Trabajo en equipo**: Colaboro eficientemente con equipos multidisciplinarios.
+- **Comunicación clara**: Explico ideas complejas de manera comprensible.
+- **Gestión del tiempo**: Manejo múltiples proyectos sin comprometer calidad.
+- **Pensamiento crítico**: Enfrento problemas desde diferentes perspectivas.
+- **Aprendizaje continuo**: Busco siempre mejorar mis habilidades técnicas y de gestión.
+
+---
+
+## 🚀 **Tecnologías conocidas** 👨🏻‍💻
+
+### **Lenguajes de programación**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,c" />
-</p>
-
-### 🛠️ Herramientas y Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio,arduino,tkinter,notion" />
-</p>
-
-### 🗄️ Bases de Datos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🖥️ Sistemas Operativos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
----
-
-## 🌟 Habilidades Blandas
-
-- 🤝 Trabajo en equipo y liderazgo
-- 🧭 Toma de decisiones y pensamiento crítico
-- 🕐 Gestión de proyectos y del tiempo
-- 📢 Comunicación clara y efectiva
-- 📚 Aprendizaje constante y adaptabilidad
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=69BLACKCAT69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=69BLACKCAT69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
-## 🎮 Proyectos Destacados
-
-### 🐍 Snake Game
-<div align="center">
-  <a href="https://69blackcat69.github.io/Snake-template/" target="_blank">
-    <img src="https://raw.githubusercontent.com/69BLACKCAT69/69BLACKCAT69/main/Viborita.gif" width="700" alt="Snake Game GIF" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
   </a>
-</div>
+</p>
+
+### **Herramientas y tecnologías**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,notion,androidstudio,mysql,sqlite,github,vscode,figma,git,tkinter" />
+  </a>
+</p>
+
+### **Sistemas Operativos**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </a>
+</p>
 
 ---
 
-## 📬 Contáctame
-
+### 📞 **Contacto**  
 <p align="left">
   <a href="https://wa.me/527891193882" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="mailto:sosatrejosantiagodejesus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/santiago-de-jesus-sosa-trejo-9249312b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-## ✨ Frase que me inspira
+💡 *Siempre buscando aprender, colaborar y crear soluciones que impacten positivamente.*  
+🌟 *¡Hablemos y construyamos algo increíble juntos!*
 
-> “La mejor manera de predecir el futuro es creándolo.” – Alan Kay
+<div align="center">
+  <h2>Github Estatus</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=69BLACKCAT69&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/69BLACKCAT69" />
+  <!-- Versión con diferentes parámetros -->
+<img src="https://streak-stats.demolab.com?user=69BLACKCAT69&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 
----
+<!-- Versión alternativa del servicio -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=69BLACKCAT69&theme=tokyonight" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69BLACKCAT69&langs_count=10&theme=tokyonight&layout=compact" alt="69BLACKCAT69 :: Top Langs" /></p>
+</div>
+
+## 🐍 Snake Game
+
+<div align="center">
+  <a href="https://69blackcat69.github.io/Snake-template/" target="_blank">
+    <img src="https://raw.githubusercontent.com/69BLACKCAT69/69BLACKCAT69/main/Viborita.gif" alt="Snake Game GIF" width="800" height="600" />
+  </a>
+</div>
