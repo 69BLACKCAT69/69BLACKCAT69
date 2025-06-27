@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tecnologías y Herramientas
+## � Tecnologías y Herramientas
 
 ### 🔤 Lenguajes
 <p align="left">
@@ -34,7 +34,12 @@
 
 ### 🛠️ Herramientas & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,sqlite,arduino,git,github,vscode,figma,androidstudio,notion" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,arduino,git,github,vscode,figma,androidstudio,notion" />
+</p>
+
+### 🗃️ Bases de Datos & Almacenamiento
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> JSON
 </p>
 
 ### 💻 Sistemas Operativos
